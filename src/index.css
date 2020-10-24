@@ -1,0 +1,212 @@
+/* ........................................................................   */
+
+a {
+  /* color: #0b98dc !important; */
+}
+
+.txtcolor {
+  color: #0b98dc !important;
+}
+
+.logoalign {
+  /*margin-top: -25px;
+	margin-bottom: -25px; */
+}
+
+.body-img {
+  max-width: 50%;
+}
+
+.navbar {
+  font-family: Verdana !important;
+  font-weight: 600;
+}
+
+.btn-right {
+  float: right;
+}
+
+.jumbotron {
+  /* background-image: url(./grey.jpg); */
+  background-size: cover;
+  height: 100%;
+}
+/* .parallax {
+	/* The image used 
+	background-image: url("cg_option.jpg");
+  
+	/* Full height
+	height: 100%;
+  
+	/* Create the parallax scrolling effect 
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  } */
+
+/* .................form.................. */
+
+.form-control {
+  height: 41px;
+  background: #f2f2f2;
+  box-shadow: none !important;
+  border: none;
+}
+.form-control:focus {
+  background: #e2e2e2;
+}
+.form-control,
+.btn {
+  border-radius: 3px;
+}
+.signup-form {
+  width: 100%;
+  margin: 30px auto;
+}
+.signup-form form {
+  color: #999;
+  border-radius: 3px;
+  margin-bottom: 15px;
+  background: #fff;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  padding: 50px;
+}
+.signup-form h2 {
+  color: #333;
+  font-weight: bold;
+  margin-top: 0;
+}
+.signup-form hr {
+  margin: 0 -30px 20px;
+}
+.signup-form .form-group {
+  margin-bottom: 20px;
+}
+.signup-form input[type="checkbox"] {
+  margin-top: 3px;
+}
+.signup-form .row div:first-child {
+  padding-right: 10px;
+}
+.signup-form .row div:last-child {
+  padding-left: 10px;
+}
+.signup-form .btn {
+  font-size: 16px;
+  font-weight: bold;
+  background: #3598dc;
+  border: none;
+  width: 30%;
+  /* min-width: 140px; */
+}
+.signup-form .btn:hover,
+.signup-form .btn:focus {
+  background: #2389cd !important;
+  outline: none;
+}
+.signup-form a {
+  /* color: #fff; */
+  text-decoration: underline;
+}
+.signup-form a:hover {
+  text-decoration: none;
+}
+.signup-form form a {
+  color: #3598dc !important;
+  text-decoration: none;
+}
+.signup-form form a:hover {
+  text-decoration: underline;
+}
+.signup-form .hint-text {
+  padding-bottom: 15px;
+  /* text-align: center; */
+}
+.btn-group {
+  width: 100px;
+}
+
+.form-group .radio label {
+  margin-right: 10px;
+}
+
+/* ...............................About as................... */
+
+.paddingTB60 {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #e9ecef;
+}
+
+.cta-padding35 {
+  padding: 35px 0 35px;
+  background-color: #0b98dc !important;
+  color: #fff;
+}
+
+.paddingTB30 {
+  padding-top: 20px;
+}
+
+/* ...........Contact us ................... */
+
+/*Contact sectiom*/
+.content-header {
+  font-family: "Oleo Script", cursive;
+  color: #0b98dc !important;
+  font-size: 45px;
+}
+
+.section-content {
+  text-align: center;
+}
+
+.contact-section {
+  padding-top: 40px;
+}
+.contact-section .col-md-6 {
+  width: 50%;
+}
+
+.form-line {
+  border-right: 1px solid #b29999;
+}
+
+/* ............For button */
+/* .btn-primary {
+  background-color: #0b98dc !important;
+  border-color: #007bff !important;
+}
+.btn-primary:hover {
+  background-color: #457db9 !important; /* Green 
+  color: white;
+} */
+
+.forgotpwd {
+  float: right;
+}
+.space-left {
+  margin-left: 5px;
+}
+
+a {
+  color: #0b98dc !important;
+}
+
+.sendmsg {
+  color: #fff;
+  background-color: #0b98dc !important;
+  border-color: #0b98dc !important;
+}
+
+.slogan {
+  padding-left: 30%;
+}
+
+.txtjustify {
+  text-align: justify;
+}
+cg_color {
+  color: #0b98dc !important;
+}
